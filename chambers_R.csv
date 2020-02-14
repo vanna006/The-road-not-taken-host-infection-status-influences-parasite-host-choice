@@ -1,0 +1,12 @@
+Treatment key,,,,,,,Predicted:
+,,,,,,,
+schistoun,,schisto vs uninfected: schisto mira,,,,x,uninfected 1
+evs,,echino vs schisto: schisto mira,,,,x,schisto 1
+econtrol,,empty schisto mira,,,,x,G side 1
+pcontrol,,uninfected vs empty: schisto mira,,,,x,uninfected 1
+evun,,echino vs uninfected: schisto mira,,,,x,uninfected 1
+eecontrol,,empty: echino mira,,,,x,G side 1
+eepcontrol,,uninfected vs empty: echino mira,,,,x,uninfected 1
+eesun,,schisto vs uninfected: echino mira,,,,x,schisto 1
+eeun,,echino vs uninfected: echino mira,,,,x,uninfected 1
+ees,,echino vs schisto: echino mira,,,,x,schisto 1
